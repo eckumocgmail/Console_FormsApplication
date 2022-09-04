@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Console_FormsApplication": {
+      "commandName": "Project",
+ 
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:58232;http://localhost:58233"
+    }
+  }
+}
